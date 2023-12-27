@@ -1,0 +1,11 @@
+export const SETTING_NAME_KEYS = {
+    APP_NAME: 'APP_NAME',
+    APP_HOTLINE: 'APP_HOTLINE',
+    APP_EMAIL: 'APP_EMAIL',
+    APP_ADDRESS: 'APP_ADDRESS',
+};
+
+export const SETTING_DOMAIN_KEYS = {
+    SYSTEM: 'SYSTEM',
+    COMMON: 'COMMON',
+};
